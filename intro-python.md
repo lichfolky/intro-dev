@@ -1,5 +1,14 @@
-INSTALLAZIONE:
+## INSTALLAZIONE
 https://docs.python.org/3/using/windows.html#using-on-windows
+
+
+## Semantic versioning:
+`major.minor.patch`
+
+
+## Primi passi
+
+print('hello world!')
 
 x = input('Enter your name:')
 
