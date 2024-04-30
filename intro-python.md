@@ -1,8 +1,6 @@
 INSTALLAZIONE:
 https://docs.python.org/3/using/windows.html#using-on-windows
 
-
-
 x = input('Enter your name:')
 
 sei ricco
@@ -108,3 +106,20 @@ Telegram bot
 
                              >>> print(time.asctime())
               'Mon Nov 5 12:40:27 2012'
+
+duck typing
+
+exit(
+)
+
+cd
+
+dir ls
+
+pep 8 codeline guide
+
+https://peps.python.org/pep-0008/
+
+https://www.w3schools.com/python/python_operators.asp
+
+https://code.visualstudio.com/docs/python/linting
