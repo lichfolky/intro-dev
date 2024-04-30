@@ -1,4 +1,4 @@
-# librerie python e progetti interessanti
+# librerie python e progetti interessanti da fare
 
 ## Analisi dati
 
@@ -23,3 +23,15 @@ django
 raspberry
 arduino
 iot
+
+
+## interessanti
+
+turtle
+
+import emoji
+:red_heart:
+
+Pyjokes
+
+https://rhodesmill.org/skyfield/

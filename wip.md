@@ -123,3 +123,46 @@ https://peps.python.org/pep-0008/
 https://www.w3schools.com/python/python_operators.asp
 
 https://code.visualstudio.com/docs/python/linting
+
+carta forbici sasso
+
+
+
+
+https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/
+
+
+
+
+
+
+
+
+
+Webscraping w/ selenium and Beautiful Soup
+
+
+Telegram bot
+
+
+              >>> list(range(0, 5))
+                            >>> import time
+
+                             >>> print(time.asctime())
+              'Mon Nov 5 12:40:27 2012'
+
+
+exit(
+)
+
+cd
+
+dir ls
+
+pep 8 codeline guide
+
+https://peps.python.org/pep-0008/
+
+https://www.w3schools.com/python/python_operators.asp
+
+https://code.visualstudio.com/docs/python/linting
