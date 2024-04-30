@@ -166,3 +166,5 @@ https://peps.python.org/pep-0008/
 https://www.w3schools.com/python/python_operators.asp
 
 https://code.visualstudio.com/docs/python/linting
+
+magic comments # coding=utf-8

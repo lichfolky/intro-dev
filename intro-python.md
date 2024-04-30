@@ -1,6 +1,10 @@
 ## INSTALLAZIONE
 https://docs.python.org/3/using/windows.html#using-on-windows
 
+fare check su PATH, nella prima schermata
+
+## VS code
+
 ## Semantic versioning:
 `major.minor.patch`
 https://en.wikipedia.org/wiki/Software_versioning
