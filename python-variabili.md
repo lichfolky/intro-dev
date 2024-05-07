@@ -88,3 +88,24 @@ duck typing
 cd
 
 dir ls
+
+
+# todo
+pip
+venv, virtualenv
+https://docs.python.org/3/library/venv.html
+
+python -m venv /path/to/new/virtual/environment
+
+On Windows, invoke the venv command as follows:
+
+c:\>Python35\python -m venv c:\path\to\myenv
+Alternatively, if you configured the PATH and PATHEXT variables for your Python installation:
+
+c:\>python -m venv c:\path\to\myenv
+
+python -m pip install SomePackage
+
+https://docs.python.org/
+
+`sum(range(4))`

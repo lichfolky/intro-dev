@@ -24,7 +24,9 @@ risposte = [
     "Molto incerto",
 ]
 
-print(random.randint(1,6))
+# print(random.randint(1,6))
 
 numero = random.randint(0, len(risposte) - 1)
-print(risposte[numero])
+# print(risposte[numero])
+
+print(random.choice(risposte))

@@ -3,8 +3,15 @@
 1 - [intro](intro.md)
 2 - [python, tipi di dati e variabili](python-variabili.md)
 3 - [logica e condizioni](condizioni-cicli.md)
-3 - [Array e cicli](array-cicli.md)
-2 - [funzioni e librerie](funzioni-librerie.md)
+4 - [Array e cicli](array-cicli.md)
+5 - [funzioni e librerie](funzioni-librerie.md)
+
+08/05/2024 match, code, matrici
+14/05/2024 mappe e files
+15/05/2024
+21/05/2024 classi e oggetti
+22/05/2024
+28/05/2024 prova?
 
 
 ## altre risorse:

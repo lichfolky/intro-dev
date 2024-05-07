@@ -31,39 +31,20 @@ import time
 print(time.asctime())
 
 
-# todo
-pip
-venv, virtualenv
-https://docs.python.org/3/library/venv.html
 
-python -m venv /path/to/new/virtual/environment
 
-On Windows, invoke the venv command as follows:
+### turtle
 
-c:\>Python35\python -m venv c:\path\to\myenv
-Alternatively, if you configured the PATH and PATHEXT variables for your Python installation:
+SquareSpiral1.py - Draws a square spiral
 
-c:\>python -m venv c:\path\to\myenv
+import turtle
+t = turtle.Pen()
+for x in range(100):
+    t.forward(x)
+    t.left(90)
 
-python -m pip install SomePackage
 
-https://docs.python.org/
-
-`sum(range(4))`
-
-# match
-
-def http_error(status):
-    match status:
-        case 400:
-            return "Bad request"
-        case 404:
-            return "Not found"
-        case 418:
-            return "I'm a teapot"
-        case _:
-            return "Something's wrong with the internet"
-
+more functions, turtle.window_width() and turtle.window_height().
 
 # librerie python e progetti interessanti da fare
 
@@ -103,3 +84,5 @@ Pyjokes
 https://rhodesmill.org/skyfield/
 
 Webscraping w/ selenium and Beautiful Soup
+
+
