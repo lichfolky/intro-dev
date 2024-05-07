@@ -18,7 +18,7 @@ def somma_array(array):
 def somma_array_easy(array):
     somma = 0
     for elemento in array:
-       somma = somma + elemento
+       somma = somma + elemento #accumulatore
     return somma
 
 print(somma_array_easy([2,3,4,6,3,56,7,3]))
