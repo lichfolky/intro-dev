@@ -1,3 +1,16 @@
+trasparenza, non ci interessa sapere contenuto funzione
+
+riutilizzo, posso riutilizzarla
+
+se devo modificare, o aggiustare codice lo faccio solo una volta
+
+
+if x & 1:
+    return 'odd'
+else:
+    return 'even'
+
+
 
 import random
 
