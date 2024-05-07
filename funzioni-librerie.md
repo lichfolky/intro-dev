@@ -22,6 +22,14 @@ random numero
 
 
 
+## librerie
+
+math
+
+import time
+
+print(time.asctime())
+
 
 # todo
 pip
@@ -41,8 +49,7 @@ python -m pip install SomePackage
 
 https://docs.python.org/
 
-
-sum(range(4))
+`sum(range(4))`
 
 # match
 
@@ -94,3 +101,5 @@ import emoji
 Pyjokes
 
 https://rhodesmill.org/skyfield/
+
+Webscraping w/ selenium and Beautiful Soup

@@ -13,6 +13,8 @@ https://disi.unitn.it/~teso/courses/informatica/python_complex_statements_soluti
 
 https://tutorial.djangogirls.org/it/
 
-https://docs.python.org/3.12/library/index.html
-
 https://www.pythoncheatsheet.org/
+
+
+https://docs.python.org/3.12/library/index.html
+https://docs.python.org/3.12/howto/index.html
