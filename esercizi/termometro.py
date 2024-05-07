@@ -5,7 +5,6 @@ temperatura = int(input("Inserisci la temperatura "))
 
 if temperatura < 23:
     print("fa freddo")
-
 else:
     print("fa caldo")
 

@@ -23,7 +23,6 @@ def conta_4_experts(array):
 print("numero di 6 in array: ")
 print(conta_numero(numeri1, 2))
 
-
 numeri2 = [33, 5, 3, 6, 43, 6, 787, 44]
 
 
@@ -35,12 +34,16 @@ def conta_numeri_pari(array):
             numeri_pari += 1
     return numeri_pari
 
+
 print("questo array: " + str(numeri2))
 
 print("ha " + str(conta_numeri_pari(numeri2)) + " numeri pari")
 
-## Conta le vocali in una stringa
+## Conta le vocali e il numero di lettere di una stringa
 stringa = "ciao come va"
+print(stringa[0])
 
+## Controlla se hai abbastanza soldi, sottraendo le spese
 
-## sottrai conto
+budget = 100
+spese = [1, 6, 2, 4, 7, 8, 2]

@@ -1,5 +1,4 @@
 # coding=utf-8
-
 import random
 
 risposte = [
@@ -25,6 +24,7 @@ risposte = [
     "Molto incerto",
 ]
 
-numero = random.randint(0, 19)
+print(random.randint(1,6))
 
+numero = random.randint(0, len(risposte) - 1)
 print(risposte[numero])
