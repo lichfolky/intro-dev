@@ -44,8 +44,7 @@ https://docs.python.org/
 
 sum(range(4))
 
-break
-
+# match
 
 def http_error(status):
     match status:
@@ -57,3 +56,41 @@ def http_error(status):
             return "I'm a teapot"
         case _:
             return "Something's wrong with the internet"
+
+
+# librerie python e progetti interessanti da fare
+
+## Analisi dati
+
+panda
+numpy
+matplot
+
+## Machine learning
+
+scikit learn
+pytorch
+tensorflow
+keras
+
+## Sviluppo web
+
+flask
+django
+
+## IOT e prototipi
+
+raspberry
+arduino
+iot
+
+## interessanti
+
+turtle
+
+import emoji
+:red_heart:
+
+Pyjokes
+
+https://rhodesmill.org/skyfield/

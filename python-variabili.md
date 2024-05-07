@@ -63,7 +63,6 @@ https://docs.python.org/3/tutorial/introduction.html
 
 fuoco fuochino acqua oceano
 
-
 ## riga di comando
 `dir`, `ls`, `cd`
 percorso
@@ -74,3 +73,6 @@ percorso
 ## Altro
 Come fare cose difficili con python:
 https://docs.python.org/3.12/howto/index.html
+
+
+duck typing

@@ -97,7 +97,6 @@ gioco impiccato
 
 Webscraping w/ selenium and Beautiful Soup
 
-
 Telegram bot
 
 
@@ -107,7 +106,6 @@ Telegram bot
                              >>> print(time.asctime())
               'Mon Nov 5 12:40:27 2012'
 
-duck typing
 
 exit(
 )
@@ -125,9 +123,6 @@ https://www.w3schools.com/python/python_operators.asp
 https://code.visualstudio.com/docs/python/linting
 
 carta forbici sasso
-
-
-
 
 https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/
 
