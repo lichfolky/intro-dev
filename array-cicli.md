@@ -1,10 +1,23 @@
-flow charts
-
+## flow charts
 
 while
-
-for
-
 break
 
-list(range(0, 5))
+## for
+
+for i in range(0,30):
+    print(i)
+
+array = [3, 2, 5, 6]
+for i in range(0, len(array)):
+    print(i)
+
+array = [3, 2, 5, 6]
+for i in array:
+    print(i)
+
+
+## for per contare
+
+## for per accumulare
+

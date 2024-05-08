@@ -1,16 +1,22 @@
-trasparenza, non ci interessa sapere contenuto funzione
+## Perchè usare le funzioni:
 
-riutilizzo, posso riutilizzarla
+'trasparenza', non ci interessa sapere contenuto funzione
 
-se devo modificare, o aggiustare codice lo faccio solo una volta
+riutilizzo, posso riutilizzare lo stesso codice più volte
 
+se devo modificare o aggiustare codice lo faccio solo una volta, non rischio di dimenticarmi o di avere parti incoerenti tra loro
+
+posso ideare e testare l'algoritmo solo una volta
+
+
+metodo avanzato per determinare se un numero è pari o dispari
 
 if x & 1:
     return 'odd'
 else:
     return 'even'
 
-
+## otteniamo un numero random
 
 import random
 

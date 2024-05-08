@@ -1,5 +1,6 @@
-gioco impiccato
+list(range(0, 5))
 
+gioco impiccato
 
 carta forbici sasso
 
@@ -16,5 +17,3 @@ def http_error(status):
             return "I'm a teapot"
         case _:
             return "Something's wrong with the internet"
-
-
