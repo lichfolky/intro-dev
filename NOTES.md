@@ -11,6 +11,12 @@
 
 ## match, code, matrici
 
+in
+
+break
+
+ricerca lineare
+
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['O', 'O', 'O', 'O', '.', '.'],
@@ -59,13 +65,8 @@ list.sort()
 ----
 
 
-esercizi
+## esercizi
 
-in
-
-break
-
-ricerca lineare
 
 impiccato
 
@@ -73,12 +74,14 @@ shuffle -> in quale dei tre bicchieri è?
 
 battaglia navale
 
-una acarta casuale
-
-
-
+una carta casuale
 
 ## mappe files e moduli
+
+
+module
+docstring
+
 
 Figure 5-7: A Caesar cipher 125
 upper
@@ -109,10 +112,6 @@ And he found he was a much rounder fellow
 >>> test_file.close()
 
 
-Create a Python program to copy a file.
-
-Messaggio in codice, iniziale 2a parola di ogni riga
-
 pickle
 
 u>>> import pickle v>>> game_data = {
@@ -131,19 +130,9 @@ y>>> save_file.close()
 >>> load_file.close()
 
 
-module
-docstring
+## Esercizi:
+- Create a Python program to copy a file.
 
-
-
----
-
-import sys
-             while True:
-                 print('Type exit to exit.')
-                 response = input()
-                 if response == 'exit':
-                     sys.exit()
-                 print('You typed ' + response + '.')
+- Messaggio in codice, iniziale 2a parola di ogni riga
 
 ## oggetti passaggio valore e referenza
