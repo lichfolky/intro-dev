@@ -39,11 +39,7 @@ print("questo array: " + str(numeri2))
 
 print("ha " + str(conta_numeri_pari(numeri2)) + " numeri pari")
 
-## Conta le vocali e il numero di lettere di una stringa
-stringa = "ciao come va"
-print(stringa[0])
-
-## Controlla se hai abbastanza soldi, sottraendo le spese
+## Controlla se hai abbastanza soldi, sottraendo le spese al budget
 
 budget = 100
 spese = [1, 6, 2, 4, 7, 8, 2]
