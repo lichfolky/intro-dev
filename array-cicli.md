@@ -1,3 +1,9 @@
+## array
+
+array = [3, 2, 5, 6]
+
+
+
 ## flow charts
 
 while
