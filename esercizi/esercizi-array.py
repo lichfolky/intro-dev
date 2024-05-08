@@ -40,6 +40,6 @@ print("questo array: " + str(numeri2))
 print("ha " + str(conta_numeri_pari(numeri2)) + " numeri pari")
 
 ## Controlla se hai abbastanza soldi, sottraendo le spese al budget
-
+## prendi ispirazione da funzioni-somma.py
 budget = 100
 spese = [1, 6, 2, 4, 7, 8, 2]
