@@ -8,11 +8,10 @@
 
 08/05/2024 match, code, matrici
 14/05/2024 mappe e files
-15/05/2024
-21/05/2024 classi e oggetti
-22/05/2024
-28/05/2024 prova?
-
+15/05/2024 classi e oggetti
+21/05/2024 classi e oggetti 2
+22/05/2024 database + mysql
+28/05/2024 flask + web
 
 ## altre risorse:
 
