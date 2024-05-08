@@ -11,7 +11,6 @@
 
 ## match, code, matrici
 
-
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['O', 'O', 'O', 'O', '.', '.'],
@@ -35,7 +34,6 @@ spam[1:4] is a list with a slice (two integers).
 cancellare:
 >>> del spam[2]
 
-
 catNames = []
 while True:
     print('Enter the name of cat ' + str(len(catNames) + 1) +
@@ -48,15 +46,18 @@ print('The cat names are:')
 for name in catNames:
     print('  ' + name)
 
-
 >>> cat = ['fat', 'black', 'loud']
  >>> size, color, disposition = cat
-
 
 list.index('hello')
 list.append()
 list.remove(1,"ICAO")
 list.sort()
+
+
+
+----
+
 
 esercizi
 
@@ -73,9 +74,11 @@ shuffle -> in quale dei tre bicchieri è?
 battaglia navale
 
 una acarta casuale
+
+
+
+
 ## mappe files e moduli
-
-
 
 Figure 5-7: A Caesar cipher 125
 upper
