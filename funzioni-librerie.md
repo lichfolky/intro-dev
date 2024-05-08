@@ -49,7 +49,6 @@ for x in range(100):
     t.forward(x)
     t.left(90)
 
-
 more functions, turtle.window_width() and turtle.window_height().
 
 # librerie python e progetti interessanti da fare

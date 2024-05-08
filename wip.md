@@ -20,8 +20,6 @@ Alternatively, if you configured the PATH and PATHEXT variables for your Python 
 
 https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/
 
-
-
 Telegram bot
 
 
@@ -38,3 +36,11 @@ init
 main
 
 decoratori
+
+import sys
+             while True:
+                 print('Type exit to exit.')
+                 response = input()
+                 if response == 'exit':
+                     sys.exit()
+                 print('You typed ' + response + '.')
