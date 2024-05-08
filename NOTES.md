@@ -11,6 +11,53 @@
 
 ## match, code, matrici
 
+
+grid = [['.', '.', '.', '.', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['.', 'O', 'O', 'O', 'O', 'O'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['.', '.', '.', '.', '.', '.']]
+
+-1 nele liste
+spam[1:4] is a list with a slice (two integers).
+
+>>> spam = ['cat', 'bat', 'rat', 'elephant'] >>> spam[:2]
+['cat', 'bat']
+>>> spam[1:]
+['bat', 'rat', 'elephant']
+
++ per joinare due array
+
+cancellare:
+>>> del spam[2]
+
+
+catNames = []
+while True:
+    print('Enter the name of cat ' + str(len(catNames) + 1) +
+      ' (Or enter nothing to stop.):')
+    name = input()
+    if name == '':
+        break
+    catNames = catNames + [name]  # list concatenation
+print('The cat names are:')
+for name in catNames:
+    print('  ' + name)
+
+
+>>> cat = ['fat', 'black', 'loud']
+ >>> size, color, disposition = cat
+
+
+list.index('hello')
+list.append()
+list.remove(1,"ICAO")
+list.sort()
+
 esercizi
 
 in
@@ -27,6 +74,8 @@ battaglia navale
 
 una acarta casuale
 ## mappe files e moduli
+
+
 
 Figure 5-7: A Caesar cipher 125
 upper
@@ -81,3 +130,17 @@ y>>> save_file.close()
 
 module
 docstring
+
+
+
+---
+
+import sys
+             while True:
+                 print('Type exit to exit.')
+                 response = input()
+                 if response == 'exit':
+                     sys.exit()
+                 print('You typed ' + response + '.')
+
+## oggetti passaggio valore e referenza
