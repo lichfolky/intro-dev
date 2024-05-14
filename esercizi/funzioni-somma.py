@@ -25,5 +25,4 @@ def somma_array_easy(array):
         somma = somma + elemento  # accumulatore
     return somma
 
-
 print(somma_array_easy([2, 3, 4, 6, 3, 56, 7, 3]))
