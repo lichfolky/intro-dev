@@ -38,5 +38,3 @@ def conta_numeri_pari(array):
 print("questo array: " + str(numeri2))
 
 print("ha " + str(conta_numeri_pari(numeri2)) + " numeri pari")
-
-
