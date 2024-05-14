@@ -1,42 +1,9 @@
-# Dato l'array ["Hello", "World","in" ,"a","frame"] creare:
+## numero massimo di lettere
 
-# *********
-# * Hello *
-# * World *
-# * in    *
-# * a     *
-# * frame *
-# *********
+## minima lunghezza parole in array di parole
 
-mie_parole = ["Hellooo", "World", "in", "a", "frame"]
+## massimo e minimo array di numeri
 
-def numero_massimo_di_lettere(parole):
-    max_char = 0
-    for parola in parole:
-        if len(parola) > max_char:
-            max_char = len(parola)
-    return max_char
+## calcola esponente di due numeri
 
-
-def printCornicetta(parole):
-    max_char = numero_massimo_di_lettere(parole)
-    print("*" * (max_char + 4))
-    for parola in parole:
-        print("* " + parola, end="")
-        for i in range (max_char - len(parola)):
-            print(" ", end="")
-        print(" *")
-    print("*" * (max_char + 4))
-
-printCornicetta(mie_parole)
-
-# Data una parola creare tutti gli anagrammi possibili (permutazioni)
-# es:
-# cane
-# ance
-# cena
-
-# Data una parola valutare se è palindroma
-
-# anna
-# i topi non avevano nipoti
+## calcola moltiplicazione di due numeri senza usare *

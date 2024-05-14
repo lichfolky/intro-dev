@@ -1,3 +1,5 @@
+# vari modi per ottenere la somma degli elementi di un array
+
 numeri = [56, 43, 22, 4, 77, 23, 33]
 somma = sum(numeri)
 
