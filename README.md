@@ -6,10 +6,10 @@
 4 - [Array e cicli](array-cicli.md)
 5 - [funzioni e librerie](funzioni-librerie.md)
 
-08/05/2024 match, code, matrici
-14/05/2024 mappe e files
-15/05/2024 classi e oggetti
-21/05/2024 classi e oggetti 2
+- 08/05/2024 code, matrici
+- 14/05/2024 mappe e files
+15/05/2024 matrici e mappe
+21/05/2024 oggetti
 22/05/2024 database + mysql
 28/05/2024 flask + web
 
