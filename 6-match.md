@@ -1,11 +1,6 @@
-list(range(0, 5))
-
-gioco impiccato
+# match
 
 carta forbici sasso
-
-
-# match
 
 def http_error(status):
     match status:
@@ -17,3 +12,14 @@ def http_error(status):
             return "I'm a teapot"
         case _:
             return "Something's wrong with the internet"
+
+
+Utilizzi avanzati:
+https://peps.python.org/pep-0636/#matching-sequences
+
+https://machinelearningtutorials.org/python-match-statements-tutorial-with-examples/
+
+# Esercizio
+list(range(0, 5))
+
+gioco impiccato
