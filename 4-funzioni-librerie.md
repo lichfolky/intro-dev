@@ -36,9 +36,6 @@ import time
 
 print(time.asctime())
 
-
-
-
 ### turtle
 
 SquareSpiral1.py - Draws a square spiral

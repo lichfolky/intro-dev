@@ -12,7 +12,6 @@ file = open("test-file.txt", "r")
 ## print(file.readline(), end="")
 
 
-
 # conta = 0
 # for x in file:
 #   print(conta,") ", x, sep="", end="")
