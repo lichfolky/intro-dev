@@ -1,5 +1,8 @@
 password_generate = []
 password = "" 
+
+# Non mettere più di 5 nel range
+# per terminare premere control + c nel terminale
 for y in range(3):
     if y == 0:
         for x in range(10):
