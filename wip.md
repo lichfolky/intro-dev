@@ -1,7 +1,3 @@
-## pip
-
-`python -m pip install SomePackage`
-
 ## venv, virtualenv
 https://docs.python.org/3/library/venv.html
 

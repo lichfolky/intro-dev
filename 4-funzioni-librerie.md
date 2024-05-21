@@ -51,9 +51,10 @@ time.sleep(5)
 `turtle.window_width()` and `turtle.window_height()`
 
 
-## Pip per installare nuove librerie/pacchetti
+## pip
 
-python -m pip install SomePackage
+per installare nuove librerie/pacchetti
+`python -m pip install SomePackage`
 
 # Altre librerie python e progetti interessanti da fare
 

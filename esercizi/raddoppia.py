@@ -2,12 +2,14 @@
 def addition(n):
     return n + n
 
-# We double all numbers using map()
+
 numbers = [1, 2, 3, 4]
-result = map(addition, numbers)
-print(list(result))
 
 result = []
 for number in numbers:
     result.append(addition(number))
 print(result)
+
+# We double all numbers using map()
+result = map(addition, numbers)
+print(list(result))

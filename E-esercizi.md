@@ -23,3 +23,11 @@ stamparla in questo modo:
 ```
 
 SOLUZIONE in `matrice.py`
+
+## carta forbici sasso
+
+data una scelta dell'utente presa tra "carta", "forbici" e "sasso", restituire la scelta che vincerebbe se giocata contro.
+
+## raddoppia
+
+dato un array, raddoppia tutti gli elementi conenuti usando map()
