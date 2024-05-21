@@ -1,5 +1,6 @@
 ## Controlla se hai abbastanza soldi, sottraendo le spese al budget
 ## prendi ispirazione da funzioni-somma.py
+
 my_budget = 300
 my_spese = [299, 6, 2, 4, 7, 8, 2]
 

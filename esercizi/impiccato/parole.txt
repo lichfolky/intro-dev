@@ -6,3 +6,4 @@ ottimo
 pollo
 gatto
 veloce
+lavagna

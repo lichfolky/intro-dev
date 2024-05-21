@@ -1,4 +1,4 @@
-## numero massimo di lettere
+## numero massimo di lettere in un array di parole
 
 ## minima lunghezza parole in array di parole
 
