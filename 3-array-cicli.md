@@ -1,6 +1,11 @@
-## array
+## array / liste
 
 ```python
+
+animals = ['spider', 'frog', 'snail', 'bat', 'slug', 'bear']
+
+animals[1]` # contiene 'frog'
+
 numeri = [3, 2, 5, 6]
 animali = ["leone", "panda", "gatto", "merlo", "tigre"]
 
@@ -11,7 +16,12 @@ matrice = [[1,2,3],
 bicchieri = [True, False, False]
 ``` 
 
-## Flow charts
+## range
+```
+list(range(0, 5))
+
+```
+## Flow charts e Pseudocodice
 
 ...
 

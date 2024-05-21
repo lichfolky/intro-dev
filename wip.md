@@ -1,5 +1,3 @@
-print('hello %s' % x)
-
 ## pip
 
 `python -m pip install SomePackage`
@@ -21,7 +19,6 @@ Alternatively, if you configured the PATH and PATHEXT variables for your Python 
 https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/
 
 Telegram bot
-
 
 https://www.w3schools.com/python/python_operators.asp
 
@@ -61,8 +58,3 @@ Alternatively, if you configured the PATH and PATHEXT variables for your Python 
 
 c:\>python -m venv c:\path\to\myenv
 
-python -m pip install SomePackage
-
-https://docs.python.org/
-
-`sum(range(4))`

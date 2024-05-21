@@ -1,7 +1,5 @@
 # match
 
-carta forbici sasso
-
 def http_error(status):
     match status:
         case 400:
@@ -19,7 +17,8 @@ https://peps.python.org/pep-0636/#matching-sequences
 
 https://machinelearningtutorials.org/python-match-statements-tutorial-with-examples/
 
-# Esercizio
-list(range(0, 5))
+# Esercizi
+
+carta forbici sasso
 
 gioco impiccato

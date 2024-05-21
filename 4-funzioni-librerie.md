@@ -9,46 +9,53 @@ se devo modificare o aggiustare codice lo faccio solo una volta, non rischio di 
 posso ideare e testare l'algoritmo solo una volta
 
 
-metodo avanzato per determinare se un numero è pari o dispari
+```python
+def nomefunzione(parametro1, parametro2):
+    # contenuto funzione
+    return variabile # restituisce valore contenuto nella variabile
 
+```
+
+metodo `avanzato` per determinare se un numero è pari o dispari
+
+```
 if x & 1:
     return 'odd'
 else:
     return 'even'
+```
 
-## otteniamo un numero random
+## otteniamo un numero random con una libreria
 
+```
 import random
 
 print(random.randint(3, 9))
-
-random numero
-
-        print('hello %s' % x)
-
-
+```
 
 ## librerie
 
-math
-
+```
+import math
+```
+```
 import time
 
 print(time.asctime())
 
+time.sleep(5)
+```
+
 ### turtle
 
-SquareSpiral1.py - Draws a square spiral
+`turtle.window_width()` and `turtle.window_height()`
 
-import turtle
-t = turtle.Pen()
-for x in range(100):
-    t.forward(x)
-    t.left(90)
 
-more functions, turtle.window_width() and turtle.window_height().
+## Pip per installare nuove librerie/pacchetti
 
-# librerie python e progetti interessanti da fare
+python -m pip install SomePackage
+
+# Altre librerie python e progetti interessanti da fare
 
 ## Analisi dati
 

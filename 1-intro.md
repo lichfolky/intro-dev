@@ -54,57 +54,13 @@ int main()
 }
 ```
 
-
-## Primi passi
-
-print('hello world!')
-
-x = input('Enter your name:')
-`# commento in python`
-
-indentazione e tab
-
-pep 8 codeline guide
-
-https://peps.python.org/pep-0008/
-
-## Convertire i tipi
-duck typing
-
-`*` e `+` con le stringhe
-
-`srt(numero)`
-`int(stringa)`
-
-## Liste
-
-`animals = ['spider', 'frog', 'snail', 'bat', 'slug', 'bear']`
-
-`animals[1]` contiene 'frog'
-
-## Materiale aggiuntivo
-
-https://docs.python.org/3/tutorial/introduction.html
-
-## Esercizi
-
-fuoco fuochino acqua oceano
-
 ## riga di comando
-`dir`, `ls`, `cd`
-percorso
+`dir`, `ls`, 
+`cd` percorso  
+
 `python --version`
-`python` per l'interprete
+
+## interprete python
+
+Nella riga di comando scrivere `py` o `python` o `python3` per eseguire l'interprete
 `exit()` per uscire
-
-## Altro
-Come fare cose difficili con python:
-https://docs.python.org/3.12/howto/index.html
-
-duck typing
-
-## terminale
-
-cd
-
-dir ls
