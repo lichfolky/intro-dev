@@ -1,3 +1,42 @@
+## Test mare o montagna
+Ti piace nuotare (si o no)
+Ti piace la neve (si o no)
+Ti piace il freddo o il caldo?
+
+## Maggiore tra tre
+
+
+## Sì o no?
+Controlla che l'utente abbia inserito esattamante "yes" o "no" altrimenti segnala "comando errato"
+
+## Istogramma
+Data ad esempio la lista [3, 4, 5, 5, 2], la funzione dovrà produrre questa sequenza:
+
+***
+****
+*****
+*****
+**
+
+## Calcolo BMI (Body mass index)
+
+Chiedi ad un utente peso e altezza e calcola il suo bmi e cosa indica
+
+```
+BMI = peso / altezza^2
+
+Sottopeso       -           BMI < 18.5  
+Peso normale    -   18.5 <= BMI < 25.0  
+Sovrappeso      -   25.0 <= BMI < 30.0  
+Obesità         -   30.0 <= BMI
+```
+
+Math.pow()
+
+# Esercizi su array
+
+la cartella arrays contiene esercizi su array
+
 ## I 3 bicchieri  
 
 Dato un array e un numero n
