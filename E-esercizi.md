@@ -2,9 +2,13 @@
 Controlla che l'utente abbia inserito esattamante "yes" o "no" altrimenti segnala "comando errato"
 
 ## Test mare o montagna
-Ti piace nuotare (si o no)
-Ti piace la neve (si o no)
-Ti piace il freddo o il caldo?
+Scrivi un test che chiede queste domande all'utente:
+
+"Ti piace nuotare (si o no)"
+"Ti piace la neve (si o no)"
+"Ti piace il freddo o il caldo?"
+
+e poi stabilisce se l'utente preferisce mare o montagna.
 
 ## Maggiore tra tre
 
