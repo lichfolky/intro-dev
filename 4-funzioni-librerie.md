@@ -1,4 +1,15 @@
-## Perchè usare le funzioni:
+# Funzioni
+
+```python
+def nomefunzione(parametro1, parametro2):
+    # contenuto funzione
+    return variabile # restituisce valore contenuto nella variabile
+```
+
+valore di default di un parametro
+funzioni con return e senza return
+
+### Perchè usare le funzioni:
 
 'trasparenza', non ci interessa sapere contenuto funzione
 
@@ -10,12 +21,6 @@ posso ideare e testare l'algoritmo solo una volta
 
 le funzioni sono riutilizzabili anche tra programmi diffenti
 
-```python
-def nomefunzione(parametro1, parametro2):
-    # contenuto funzione
-    return variabile # restituisce valore contenuto nella variabile
-
-```
 
 metodo `avanzato` per determinare se un numero è pari o dispari
 
@@ -26,7 +31,7 @@ else:
     return 'even'
 ```
 
-## otteniamo un numero random con una libreria
+### Otteniamo un numero random con una libreria
 
 ```
 import random
@@ -34,8 +39,13 @@ import random
 print(random.randint(3, 9))
 ```
 
-## librerie
+### Creiamo una nostra libreria di funzioni
 
+
+### Passaggio per valore o per riferimento
+
+
+### Altre librerie standard
 ```
 import math
 ```
@@ -57,33 +67,33 @@ time.sleep(5)
 per installare nuove librerie/pacchetti
 `python -m pip install SomePackage`
 
-# Altre librerie python e progetti interessanti da fare
+### Altre librerie python e progetti interessanti da fare
 
-## Analisi dati
+### Analisi dati
 
 panda
 numpy
 matplot
 
-## Machine learning
+### Machine learning
 
 scikit learn
 pytorch
 tensorflow
 keras
 
-## Sviluppo web
+### Sviluppo web
 
 flask
 django
 
-## IOT e prototipi
+### IOT e prototipi
 
 raspberry
 arduino
 iot
 
-## interessanti
+### interessanti
 
 turtle
 
