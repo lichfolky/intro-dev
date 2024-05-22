@@ -12,6 +12,8 @@ e poi stabilisce se l'utente preferisce mare o montagna.
 
 ## Maggiore tra tre
 
+Scrivi una funzione con tre argomenti numeri, che restituisce il numero maggiore tra i tre
+
 ## Istogramma
 Data ad esempio la lista [3, 4, 5, 5, 2], la funzione dovrà produrre questa sequenza:
 

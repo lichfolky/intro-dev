@@ -1,6 +1,7 @@
 punti_mare = 0
 punti_montagna = 0
-risposta = input("Ti piace nuotare (si o no)?")
+
+risposta = input("Ti piace nuotare (si o no)? ")
 
 risposta = risposta.strip()
 if risposta == "si":
@@ -11,7 +12,7 @@ else:
     else:
         print("comando errato!!!")
 
-risposta = input("Ti piace la neve (si o no)?")
+risposta = input("Ti piace la neve (si o no)? ")
 
 risposta = risposta.strip()
 if risposta == "no":
@@ -22,7 +23,7 @@ else:
     else:
         print("comando errato!!!")
 
-risposta = input("Ti piace il freddo o il caldo?")
+risposta = input("Ti piace il freddo o il caldo? ")
 
 risposta = risposta.strip()
 if risposta == "caldo":
@@ -34,6 +35,7 @@ else:
         print("comando errato!!!")
 
 
+print("punti_mare: ", punti_mare, ", punti_montagna: ", punti_montagna)
 if punti_mare > punti_montagna:
     print("Sei da mare!")
 else:

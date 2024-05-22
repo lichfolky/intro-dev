@@ -8,6 +8,7 @@ se devo modificare o aggiustare codice lo faccio solo una volta, non rischio di 
 
 posso ideare e testare l'algoritmo solo una volta
 
+le funzioni sono riutilizzabili anche tra programmi diffenti
 
 ```python
 def nomefunzione(parametro1, parametro2):
