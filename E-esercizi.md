@@ -1,15 +1,12 @@
 ## Sì o no?
 Controlla che l'utente abbia inserito esattamante "yes" o "no" altrimenti segnala "comando errato"
 
-## Maggiore tra tre
-
-
 ## Test mare o montagna
 Ti piace nuotare (si o no)
 Ti piace la neve (si o no)
 Ti piace il freddo o il caldo?
 
-
+## Maggiore tra tre
 
 ## Istogramma
 Data ad esempio la lista [3, 4, 5, 5, 2], la funzione dovrà produrre questa sequenza:
