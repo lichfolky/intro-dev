@@ -86,6 +86,7 @@ keras
 
 flask
 django
+( https://tutorial.djangogirls.org/it/ )
 
 ### IOT e prototipi
 

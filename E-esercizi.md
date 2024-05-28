@@ -74,8 +74,7 @@ data una scelta dell'utente presa tra "carta", "forbici" e "sasso", restituire l
 
 ## raddoppia
 
-dato un array, raddoppia tutti gli elementi conenuti usando map()
-
+dato un array, raddoppia tutti gli elementi contenuti usando map()
 
 ## email
 
@@ -104,3 +103,10 @@ time.sleep(3)
 
 
 
+# links
+
+https://www.codewars.com/
+https://bebras.it/materiali.html
+https://adventofcode.com/
+adventofcode.com/
+https://codeweek.eu/training?lang=it
