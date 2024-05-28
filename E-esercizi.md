@@ -75,3 +75,32 @@ data una scelta dell'utente presa tra "carta", "forbici" e "sasso", restituire l
 ## raddoppia
 
 dato un array, raddoppia tutti gli elementi conenuti usando map()
+
+
+## email
+
+data una stringa, è una mail valida?
+
+## Intersezione
+
+dati due array trova gli elementi in comune
+
+## inverti
+
+dato un numero, invertilo es: "1343" diventa "3431"
+
+## tabellina
+dato un numero stampa la tabellina di quel numero
+dato 3 -> stampa 3 6 9 12 15 18 21 24 27 30
+
+## la bomba
+stampa countdown, usando funzione
+```
+import time
+time.sleep(3)
+```
+
+
+
+
+
