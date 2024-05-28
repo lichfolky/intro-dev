@@ -1,5 +1,6 @@
 # Files
 Aprire un file
+
 ```
 file = open("test-file.txt")
 print(file.read())
@@ -7,9 +8,7 @@ print(file.read())
 file.close()
 ```
 
-
 coding=utf-8
-
 
 ```
 Per modificare configurazione launcher python di vscode
