@@ -28,7 +28,7 @@ Data ad esempio la lista [3, 4, 5, 5, 2], la funzione dovrà produrre questa seq
 Chiedi ad un utente peso e altezza e calcola il suo bmi e cosa indica
 
 ```
-BMI = peso / altezza^2
+BMI = peso / altezza ^ 2
 
 Sottopeso       -           BMI < 18.5  
 Peso normale    -   18.5 <= BMI < 25.0  
