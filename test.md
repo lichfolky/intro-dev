@@ -6,7 +6,7 @@
 - interpretazione e compilazione
 - tipato e non tipato
 - tipi di dato
-- varibili
+- variabili
 - operatori e operazioni
 
 5 Domande su python come linguaggio
